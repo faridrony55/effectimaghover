@@ -573,3 +573,42 @@ main {
 		margin-top: 2.5rem;
 	}
 }
+
+
+.flex{
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.col{
+max-width:50%;
+flex:1 0 auto;
+}
+
+.canvas{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
